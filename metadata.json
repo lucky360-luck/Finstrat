@@ -1,0 +1,7 @@
+{
+  "name": "Kauri Finance Mobile",
+  "description": "Application mobile de gestion des entrées et sorties d'argent quotidien, suivi budgétaire par activité, graphiques interactifs et export CSV/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
